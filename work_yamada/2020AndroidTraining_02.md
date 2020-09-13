@@ -10,7 +10,7 @@
     - model
 
 ## クラス図
-
+![クラス図](class_fig.png)
 
 ## DBテーブル
 
